@@ -3,10 +3,10 @@ slug: "yitoken"
 date: "2021-08-05"
 title: "yiToken"
 logline: "yiToken is a decentralized multi-chain cryptocurrency and NFT wallet which supports an array of chains, including Bitcoin, Ethereum, Polkadot, BSC, Heco, OKExChain, Polygon, and Solana."
-cta: "https://yitoken.im/"
+cta: "https://yitoken.in/"
 logo: /img/yiToken.svg
 category: wallet
-Website: https://yitoken.im
+Website: https://yitoken.in
 Twitter: https://twitter.com/yitokenwallet
 Discord: https://discord.com/invite/BJ7H8CUbAb
 Telegram: https://t.me/yitoken
